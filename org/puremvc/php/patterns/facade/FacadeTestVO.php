@@ -26,6 +26,7 @@ class FacadeTestVO
 	function __construct( $testValue )
 	{
 		$this->input = $testValue;		
+		$this->result = $testValue;		
 	}
 }
 
