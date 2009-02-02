@@ -5,10 +5,13 @@ Release Date: 11/13/08
     Platform: PHP 5 
      Version: 1 
     Revision: 0
+	   Minor: 1
      Authors: Hasan Otuome <hasan.otuome@puremvc.org>
      		: Omar Gonzalez 
      License: Creative Commons Attribution 3.0 Unported License
 --------------------------------------------------------------------------
+1.0.1 - added missing value to constructor of FacadeTestVO which prevented FacadeTest.testRegisterCommandAndSendNotification() from passing...
+
 1.0 - Prepared unit tests for port source code version 1.0 - OG/HO
 
 0.4 - Corrected Singleton creation functionality - CLH
