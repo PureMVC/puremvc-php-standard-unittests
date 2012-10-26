@@ -18,7 +18,7 @@ Tested are ...
 * All classes, all methods, and generally multiple assertions per test. 
 
 ## License
-* PureMVC Standard Framework for PHP - Unit Tests (Ported) - Copyright(c) 2008 Hasan Otuome 
+* PureMVC Standard Framework for PHP - Unit Tests (Ported) - Copyright © 2008 Hasan Otuome 
 * PureMVC - Copyright © 2006-2012 Futurescale, Inc.
 * All rights reserved.
 
